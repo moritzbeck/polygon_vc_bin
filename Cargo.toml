@@ -1,0 +1,8 @@
+[package]
+name = "polygon_vc_bin"
+version = "0.1.0"
+authors = ["local@localhost <local@localhost>"]
+
+[dependencies]
+polygon = { git = "https://github.com/moritzbeck/polygon.git" }
+vcdim   = { git = "https://github.com/moritzbeck/vcdim.git" }
